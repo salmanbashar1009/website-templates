@@ -1,1 +1,1 @@
-website-demo\fashion-website.png
+![alt text](website-demo/fashion-website.png)
